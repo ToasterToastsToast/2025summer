@@ -1,0 +1,17 @@
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.Form1.resources
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.csproj.GenerateResource.cache
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.AssemblyInfoInputs.cache
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.AssemblyInfo.cs
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.csproj.CoreCompileInputs.cache
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.sourcelink.json
+D:\CS\2025summer\WinformsApp\choices\bin\Debug\net9.0-windows\choices.exe
+D:\CS\2025summer\WinformsApp\choices\bin\Debug\net9.0-windows\choices.deps.json
+D:\CS\2025summer\WinformsApp\choices\bin\Debug\net9.0-windows\choices.runtimeconfig.json
+D:\CS\2025summer\WinformsApp\choices\bin\Debug\net9.0-windows\choices.dll
+D:\CS\2025summer\WinformsApp\choices\bin\Debug\net9.0-windows\choices.pdb
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.dll
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\refint\choices.dll
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.pdb
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.genruntimeconfig.cache
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\ref\choices.dll
