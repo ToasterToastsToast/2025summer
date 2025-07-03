@@ -10,5 +10,8 @@
     <Compile Update="FormAlbum.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmSpider.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
