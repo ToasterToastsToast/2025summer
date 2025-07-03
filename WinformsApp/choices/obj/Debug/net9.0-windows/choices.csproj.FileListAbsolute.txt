@@ -15,3 +15,5 @@ D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\refint\choices.dll
 D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.pdb
 D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.genruntimeconfig.cache
 D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\ref\choices.dll
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.Form2.resources
+D:\CS\2025summer\WinformsApp\choices\obj\Debug\net9.0-windows\choices.FormAlbum.resources
